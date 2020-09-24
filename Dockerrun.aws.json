@@ -11,7 +11,7 @@
         {
             "name": "server",
             "image": "hemalshah29/multi-docker-server",
-            "hostname": "server",
+            "hostname": "api",
             "essential": false,
             "memory": 128
         },
